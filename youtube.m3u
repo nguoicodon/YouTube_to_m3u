@@ -15,10 +15,13 @@
 https://raw.githubusercontent.com/nguoicodon/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://i.imgur.com/RwYRTX0.jpg" tvg-id="", Chuyển Động 360
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703792390/ei/pnqNZabzLb29y_sPgaaYiAI/ip/20.55.221.242/id/NmjccpZDNBU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maudio/1/spc/UWF9fwoiwkBymzOs1LKm-gJs8qCSTBMxULHbeu8c8w/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAOIfuEceaDqJd1i2NxS2X6Gh9mqSQJbX0TVWt1iTnd3nAiEA0BJDe0Iarl2lsageEWn2muSZrdG-aGTe9-kPAKU8iDU%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703793637/ei/hX-NZYXtL9_PsfIPz_mGiA8/ip/13.88.99.129/id/NmjccpZDNBU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maudio/1/spc/UWF9f1CbNpCjuMeL4AYKCWkSW6BD8tpcLtoo_HONRQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhANN9kyt0JlZJGhHU69CpnjetTqEWm5sKznQTW6lA2X0eAiAzz6cSgRFKLk2n_t9k0YLgzIYH-PrKBGrWw-LlKJaGLA%3D%3D/file/index.m3u8
 
-#EXTINF:-1 group-title="Malayalam" tvg-logo="https://i.imgur.com/RwYRTX0.jpg" tvg-id="", VNEWS
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://yt3.googleusercontent.com/Ei_09qADe_-23YdfpNUaMjF3pi-tJRdo4ImJzJIE7hJpm5Ac8SdvGq8DlHH1xAI7HjGQOTtTiA=s176-c-k-c0x00ffffff-no-rj" tvg-id="", VẤN ĐỀ HÔM NAY
 https://raw.githubusercontent.com/nguoicodon/YouTube_to_m3u/main/assets/moose_na.m3u
 
-#EXTINF:-1 group-title="Malayalam" tvg-logo="https://i.imgur.com/RwYRTX0.jpg" tvg-id="", Đài TH Thái Nguyên
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://i.imgur.com/RwYRTX0.jpg" tvg-id="", Làng Văn Radio 📻
+https://raw.githubusercontent.com/nguoicodon/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZSNQEKVjOGnRy2fks5CK-bi95iW-0XGxtm0xvZq7g=s176-c-k-c0x00ffffff-no-rj" tvg-id="", Thuy Nga
 https://raw.githubusercontent.com/nguoicodon/YouTube_to_m3u/main/assets/moose_na.m3u

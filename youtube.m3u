@@ -11,17 +11,17 @@
 #########################################################################
 
 
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://yt3.googleusercontent.com/yuUcdKnoDlxENjWzuhh64Nx1rzu5KCedncBjRtcHY1_YWajP5rBAIZFuFp60bCJlnritWfgEXQ=s176-c-k-c0x00ffffff-no-rj" tvg-id="", HIỂU RÕ TRONG 5 PHÚT
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/RwYRTX0.jpg" tvg-id="", HIỂU RÕ TRONG 5 PHÚT
 https://raw.githubusercontent.com/nguoicodon/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://i.imgur.com/RwYRTX0.jpg" tvg-id="", Chuyển Động 360
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703834323/ei/cx6OZZiAMI2TsfIPl5WL-Ac/ip/20.172.7.8/id/NmjccpZDNBU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maudio/1/spc/UWF9f1DsZ8f7Vklf2i12zo5WlsJmaOjofQD-OJyuNA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAOwtsjYz9iWdgpFAlvkoFU1rk2dCB7GM2pCukomhruw3AiBNqVwPojMmRePPvMkJQtOjBpY-u2LzcJl6eVXSRUXcng%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703834648/ei/uB-OZY65Ld28_9EP1syamAM/ip/20.75.95.97/id/NmjccpZDNBU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/24554063/txs/24554063%2C24554066/hfr/1/maudio/1/spc/UWF9f54wztgERfBFtsOHSRIuY7KbG5yvry_CvKHmtA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgVjuCBdxsIK4RXavL6DA8cfyuO0gbELvlRDg9ZP4vgbECIQD4aQS0WKvgnFxDKEXIeJx6zB9-tVKEiPQn79vhuGMHqw%3D%3D/file/index.m3u8
 
-#EXTINF:-1 group-title="Malayalam" tvg-logo="https://yt3.googleusercontent.com/Ei_09qADe_-23YdfpNUaMjF3pi-tJRdo4ImJzJIE7hJpm5Ac8SdvGq8DlHH1xAI7HjGQOTtTiA=s176-c-k-c0x00ffffff-no-rj" tvg-id="", VẤN ĐỀ HÔM NAY
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://i.imgur.com/RwYRTX0.jpg" tvg-id="", VẤN ĐỀ HÔM NAY
 https://raw.githubusercontent.com/nguoicodon/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://i.imgur.com/RwYRTX0.jpg" tvg-id="", Làng Văn Radio 📻
 https://raw.githubusercontent.com/nguoicodon/YouTube_to_m3u/main/assets/moose_na.m3u
 
-#EXTINF:-1 group-title="Malayalam" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZSNQEKVjOGnRy2fks5CK-bi95iW-0XGxtm0xvZq7g=s176-c-k-c0x00ffffff-no-rj" tvg-id="", Thuy Nga
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://i.imgur.com/RwYRTX0.jpg" tvg-id="", Thuy Nga
 https://raw.githubusercontent.com/nguoicodon/YouTube_to_m3u/main/assets/moose_na.m3u

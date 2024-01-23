@@ -15,7 +15,7 @@
 https://raw.githubusercontent.com/nguoicodon/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://i.imgur.com/RwYRTX0.jpg" tvg-id="", Chuyển Động 360
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1706022415/ei/roGvZaK_PNnjsfIP74mh0Ag/ip/52.238.28.66/id/eSh8K6VQdGI.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maudio/1/spc/UWF9f-OOin0wMLj3zRM00XC-ri9P7EFSzgjp8sK7gO5H70c/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAP_reMrm9yL-FVey9RmGi25hqkK5QurJJ2IjNKCAgTdTAiBxfEK8hz0LcdS21FWJYNYwrb4S4POjEgtUV19NYqX-yw%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1706033485/ei/7ayvZZ3hIv_plu8Pjp6ngA0/ip/172.183.122.246/id/wH3Spa8HIEs.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f7-yHV1j6ReeQdk04mu1L4aVGSnT7lN4cp4RPy8bkog/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgYrchZZGlOOFy7G9t3DAEXdvpzvvMYuQXuaU7JyJuRukCIDiiHc78jsH5dU_VO9uCEYIBnagpMFKiwrN49-la3MpF/file/index.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://i.imgur.com/RwYRTX0.jpg" tvg-id="", VẤN ĐỀ HÔM NAY
 https://raw.githubusercontent.com/nguoicodon/YouTube_to_m3u/main/assets/moose_na.m3u

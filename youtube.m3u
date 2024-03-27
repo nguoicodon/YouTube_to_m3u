@@ -15,10 +15,10 @@
 https://raw.githubusercontent.com/nguoicodon/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://i.imgur.com/RwYRTX0.jpg" tvg-id="", Chuyển Động 360
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1711541302/ei/1rcDZqjSLee6sfIP4M6AkA8/ip/52.157.4.99/id/Txn9RawLd1c.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066120/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/maudio/1/spc/UWF9f3ZfHtuORRplSjI3WsYtwvNF3bObAucHgzmXuDUWWcA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/51141541/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgIRbbrrJE5bIqV6mu2utBIE5RMEmezkh6AyKKcVz0kcYCICUciMFqvH60SnvFU9R9Im2y5BL5OhRnZQNcQYCFcZo-/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1711551988/ei/lOEDZsfXM6-8_9EPnr-F0A8/ip/40.123.38.206/id/Txn9RawLd1c.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maudio/1/spc/UWF9f_uRXh_8qEwtSQfpVZYPSooagRGUc9naXQm0LGzdc0E/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/51141542/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIga5s4x_Eg3i90mRp2PEx32tFmVuc8CvQmWmBJ1M7VzJ8CIGD99id1_Uv9V3wItyKcS30-ltqZWvV9YzVCQy25HO8x/file/index.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://i.imgur.com/RwYRTX0.jpg" tvg-id="", VẤN ĐỀ HÔM NAY
-https://raw.githubusercontent.com/nguoicodon/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1711551989/ei/leEDZtfyGPmU_9EPtL6XkAE/ip/40.123.38.206/id/4XM3B_JoFlE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f0ZBhsPhcgonDxyDoPKG0n6221pXqinQCgI6PxFtdSw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/51141541/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhALSWgPK_d_1nefOC2MyRfdz9o7IaPwRDREEbK1zFe8yCAiEA3SQueB1pcBx5iMsolNzAMbJZLO7FYPxJLWPI0_VRtPc%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://i.imgur.com/RwYRTX0.jpg" tvg-id="", Làng Văn Radio 📻
 https://raw.githubusercontent.com/nguoicodon/YouTube_to_m3u/main/assets/moose_na.m3u

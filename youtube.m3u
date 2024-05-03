@@ -15,7 +15,7 @@
 https://raw.githubusercontent.com/nguoicodon/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://i.imgur.com/RwYRTX0.jpg" tvg-id="", Chuyển Động 360
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714770419/ei/k_00ZvGaCIT5sfIP5NeUyAQ/ip/52.238.25.63/id/tL331IiFpRI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgHE4YW-tihnd-VroTn64qIoyf42bAfU-4nn40Rgc9um0CIFe9UgSAMDLxQ416at0rfgbqqphAQHTcjux7H8qjw9K0/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714781296/ei/ECg1ZuzBI4eMlu8P0o2E2AU/ip/172.183.77.194/id/tL331IiFpRI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066118/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/maudio/1/spc/UWF9f2sRT8WYvHEWNKlJ2qE0cm-WG0xgtcYecReKuhu5UOCdYn9s5iQ22jWu/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAMmAJP1cn3Z3I_bpppwr-mAwx2BcF8Th7ttaIE_SZv31AiA_RGD_XioIEDQoRDkw_08ajynE0wBdLHa8RHKUjtIzKA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://i.imgur.com/RwYRTX0.jpg" tvg-id="", VẤN ĐỀ HÔM NAY
 https://raw.githubusercontent.com/nguoicodon/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -27,7 +27,7 @@ https://raw.githubusercontent.com/nguoicodon/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/nguoicodon/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="News" tvg-logo="" tvg-id="", VTV24
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714770422/ei/lv00ZpLpHdqpsfIP-5ao-Ac/ip/52.238.25.63/id/L-RR3BCdvCg.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066118/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgJGA9xvUYjISIBvv9ZvcdT2WCi9CTH43t7RxbNUz3B18CIQCwW_Ayydjd6-auO57u0YxyqDqMICycqH6VDQCwL3pjYA%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714781300/ei/FCg1ZqHbCM7IybgP44mHmAc/ip/172.183.77.194/id/L-RR3BCdvCg.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066116/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/maudio/1/spc/UWF9f-yAcgUmC67RC80lXxXw0lzI7V0rXYS_ErMBZknZEXWJFYXurgK5IR0B/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgZARX9c59YEnvhzFHIdFlV1S67oZzJ4Zuym_qffjHU9ECIF6WnJtswx5-QK2ofW76IlN3PsmgETNX5bq2JAtBY5-e/file/index.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="" tvg-id="", Nhạc Xưa Tuyển Chọn
 https://raw.githubusercontent.com/nguoicodon/YouTube_to_m3u/main/assets/moose_na.m3u
